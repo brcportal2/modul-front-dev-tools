@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const minimist = require('minimist');
 const { exec, spawn } = require('child_process');
 
