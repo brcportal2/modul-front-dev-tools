@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "repository": "git@github.com:brcportal2/modul-front-dev-tools.git",
   "license": "MIT",
+  "bin": {
+    "modul-front-dev-tools-pre-push": "./scripts/pre-push.js"
+  },
   "dependencies": {
     "eslint-config-modul": "ssh://git@github.com/brcportal2/eslint-config-modul",
     "husky": "1.1.2",
