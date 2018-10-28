@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "repository": "git@github.com:brcportal2/modul-front-dev-tools.git",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "bin": {
     "modul-front-dev-tools-pre-push": "./scripts/pre-push.js"
   },
