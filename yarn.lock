@@ -638,9 +638,9 @@ eslint-config-airbnb@17.1.0:
     object.assign "^4.1.0"
     object.entries "^1.0.4"
 
-"eslint-config-modul@ssh://git@github.com/brcportal2/eslint-config-modul#v1.0.1":
-  version "1.0.1"
-  resolved "ssh://git@github.com/brcportal2/eslint-config-modul#1804fe12a858b10a7a7189e358bb117cc87e3db5"
+"eslint-config-modul@ssh://git@github.com/brcportal2/eslint-config-modul#v1.0.2":
+  version "1.0.2"
+  resolved "ssh://git@github.com/brcportal2/eslint-config-modul#549eb5f94790d8f908e8c03d3bd204a0dc6c95db"
   dependencies:
     babel-eslint "10.0.1"
     eslint "5.7.0"
