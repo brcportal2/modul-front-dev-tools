@@ -1,6 +1,6 @@
 {
   "name": "modul-front-dev-tools",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "git@github.com:brcportal2/modul-front-dev-tools.git",
   "license": "MIT",
   "scripts": {
